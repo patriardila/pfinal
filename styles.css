@@ -1,0 +1,512 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Be Vietnam Pro', sans-serif;
+    font-size: 16px;
+
+}
+header{
+    padding-top: 40px;
+   
+    margin: 0 auto;
+    width: 80%;
+    
+}
+.nav-header{
+    display: flex;
+    justify-content: space-between;  
+  
+}
+.nav-header-desktop{
+    display: none;
+}
+
+
+.nav-header i.fa-bars {
+    font-size: 24px; /* Ajusta el tamaño a tu preferencia */
+}
+.nav-container{
+    margin: 0 auto;
+    width: 100%;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px; 
+}
+.nav-text{
+    margin-top: 50px;   
+}
+.nav-text h1{
+    text-align: right;
+    padding-left: 10px;
+    font-size: 40px;
+
+}
+.nav-text h4{
+    padding-top: 20px;
+    font-weight: 300;
+    text-align: right;
+}
+.nav-container-button{
+    background-color: #8B48BF;
+    width: 30%;
+    border-radius: 20px;
+    text-align: center;
+    padding: 10px;
+    margin-top: 20px;
+    float: right;
+    color: white;
+
+
+   
+   
+}
+
+.main-container{
+    background-color: #3CDDF3;
+    margin-top: 30px;
+    color: white;
+}
+.main-container h2{
+    text-align: left;
+    padding-top: 20px;
+    padding-left: 20px;
+    width: 60%;
+    font-size: 2rem;
+
+}
+.main-container p{
+    font-size: 1rem;
+    padding-top: 20px;
+    padding-left: 20px;
+    text-align: left;
+    padding-bottom: 20px;
+
+}
+.second-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    padding-top: 30px;
+   
+    margin-right: 0;
+   
+}
+.second-container-number {
+    background-color:#8B48BF;
+    border: none;
+    width: 15%;
+    height: 30px;
+    border-radius: 20px;
+    text-align: center;
+    padding-top: 10px;
+    position: relative;
+    left: 10px;
+    color: white;
+    
+
+}
+.second-container-text-parrafo{
+    padding-left: 70px;
+    position: relative;
+    top: -29px;
+    
+}
+.second-container-text-parrafo h3{
+    background-color: #8b48bf61;
+    height: 30px;
+    text-align: center;
+    font-weight: 100;
+    font-size: 14px;
+    padding-top: 5px;
+    
+
+}
+.second-container-text-parrafo p{
+    padding-top: 20px;
+    color: #B3B2B7;
+
+}
+.third-container-cars .third-container-img:first-child {
+    display: none
+}
+.third-container-cars .third-container-img:last-child{
+    display: none
+}
+.third-container h2{
+    text-align: center;
+    font-size: 2.2rem;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.third-container-img{
+    width: 80%;
+    text-align: center;
+    margin: 0 auto;
+}
+.third-container-img-text{
+    background-color: #FAFAFA;
+    padding-top: 40px;
+} 
+.third-container-img-text p{
+    
+    color: #B3B2B7;
+    padding: 30px;
+}
+.third-container-img img{
+    position: relative;
+    top: 30px;
+}
+.third-container-button {
+    text-align: center;
+    margin: 0 auto;
+    background-color: #8B48BF;
+    width: 30%;
+    color: white;
+    padding: 10px;
+    border-radius: 20px;
+    margin-top: 10px;
+}
+
+
+
+
+
+
+.fourth-container{
+    background-color: #3CDDF3;
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+   padding-bottom: 20px;
+
+}
+
+.fourth-container h2{
+    width: 50%;
+    padding-top : 40px;
+    text-align: center;
+    font-size: 2rem;
+    color: white;
+}
+
+
+
+
+.fourth-container button{
+    background-color: #FFFFFF;
+    width: 100px;
+    height: 30px;
+    color:#8B48BF;
+    padding: 5px;
+    text-align: center;
+    margin-top: 40px;
+    border-radius: 30px;
+
+
+}
+footer{
+    background-color: #232C50;
+    padding-top: 20px;
+}
+form{
+    display: flex;
+    padding-top: 20px;
+    justify-content:center;
+    gap: 30px;
+    align-items: center;
+    
+}
+.form-button{
+    height: 40px;
+    width: 13%;
+    border-radius: 20px;
+    background-color: #8B48BF;
+    border: none;
+    color: white;
+
+}
+.footer-input{
+    border-radius: 20px;
+    height: 40px;
+    text-align: center;
+    width: 50%;
+}
+.footer-text-main{
+    display: flex;
+    padding-top: 40px;
+    justify-content:center;
+    color: white;
+    gap: 80px;
+    
+
+}
+
+.footer_text h4{
+    font-weight: 50;
+    padding-bottom: 10px;
+ 
+}
+.footer-redes{
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    color: white;
+    font-size: 1.5rem;
+}
+
+    
+
+.footer-logo{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding-top: 20px;
+    color: white;
+}
+button:hover {
+    background-color: #a2c1ed;
+    
+}
+
+
+@media screen and (min-width: 481px) {
+   .nav-header i{
+    display: none;
+   }
+   .nav-header-desktop{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 70%;
+
+   }
+   .nav-header img{
+    width: 20%;
+   }
+   .nav-header-desktop ul{
+    display: flex;
+    align-items: center;
+    list-style-type: none;
+    justify-content: space-between;
+    gap: 40px;
+    font-size: 13px;
+   }
+
+   .nav-header-desktop button{
+    background-color: #8B48BF;
+    height: 30px;
+    width: 15%;
+    border-radius: 20px;
+    color: white;
+    border: none;
+    font-size: 13px;
+    
+   }
+   button:hover {
+    background-color: #a2c1ed;
+
+}
+   button:focus {
+    outline: none; /* Elimina el borde predeterminado del enfoque */
+    box-shadow: 0 0 5px #ff6f00; /* Agrega una sombra cuando el botón está enfocado */
+    color: #8B48BF;
+}
+   .nav-container{
+    flex-direction: row;
+   }
+   .main-container{
+    display: flex;
+    align-items: center;
+    
+    background-color: #8B48BF;
+    height: 150px;
+   }
+   .main-container h2{
+    padding-left: 160px;
+    width: 65%;
+    height: 150px;
+    padding-bottom: 20px;
+    margin-top: 20px;
+   
+   
+    
+   }
+   .main-container p{
+    padding-right: 110px;
+    height: 150px;
+    width: 60%;
+    margin-top: 20px;
+    
+
+   
+   }
+   .second-container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    
+
+   
+   }
+   .second-container-text{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+   
+    width: 33%;
+    margin: 25px
+
+   }
+   .second-container-number{
+    
+    width: 80%;
+    height: 30px;
+    border-radius: 20px;
+    text-align: center;
+   
+    
+   
+   }
+   .second-container-text-parrafo{
+    padding-left: 30px;
+    position: static;
+   }
+   .second-container-text-parrafo h3{
+    background-color: white;
+   
+    text-align: left;
+    font-weight: 600;
+   
+}
+.third-container-cars .third-container-img:first-child {
+    display: block; /* Cambia 'none' a 'block' o el valor que desees */
+}
+
+.third-container-cars .third-container-img:last-child {
+    display: block; /* Cambia 'none' a 'block' o el valor que desees */
+}
+.third-container{
+   
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 70px;
+}
+
+.third-container-cars{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 70%;
+    gap: 20px;
+    padding-top: 40px;
+  
+
+}
+
+.third-container-img {
+    text-align: center;
+    
+}
+.third-container-button {
+    width: 10%;
+}
+.fourth-container{
+    background-color:#8B48BF;
+    height: 200px;
+   
+    flex-direction: row;
+    justify-content: space-around;
+
+}
+.fourth-container h2{
+    width: 30%;
+    
+    text-align: left;
+    
+}
+.fourth-container div{
+    background-color:white;
+    width: 10%;
+    height: 30px;
+    color:#8B48BF;
+    padding: 5px;
+    
+
+
+}
+footer{
+    height: 300px;
+}
+
+ form{
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 150px;
+
+}
+   
+.footer-input{
+    width: auto;
+}
+
+.form-button{
+    width: 70px;
+}
+
+
+.footer-text-main{
+    position: relative;
+    top: -70px;
+    left: -100px;
+    gap: 100px;
+
+}
+.footer-redes{
+    
+    justify-content:flex-start;
+    align-items: center;
+    gap: 20px;
+    position: relative;
+    top: -100px;
+    left: 70px;
+    
+}
+.footer-logo img{
+
+   position: relative;
+   top: -250px;
+    left: -500px;
+
+}
+.text-footer{
+    text-align: right;
+    color:#B3B2B7;
+    position: relative;
+    bottom: 130px;
+    padding-right: 100px;
+    
+}
+.button:hover {
+    background-color: #a2c1ed;
+}
+}
+
+
+
+
+
