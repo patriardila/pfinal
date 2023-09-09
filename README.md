@@ -1,24 +1,29 @@
-#**PROYECTO FINAL**
-#ASIGNATURA FRONTEND CAMADA 4
-#**PRESENTADO POR: PATRICIA ARDILA PARRADO- CAROLINA**
+# PROYECTO FINAL - ASIGNATURA FRONTEND CAMADA 4
 
-El trabajo fue realizado de manera conjunta, iniciando se realiza una reunión donde se establece la estructura general, luego de manera individual se trabaja  y finalizando la semana, hay una nueva reunón para establecer y consolidar el trabajo definitivo
+**Presentado por: Patricia Ardila Parrado y Carolina**
 
-**PATRICIA ARDILA PARRADO Y CAROLINA**
-- Estructura general del archivo HTML: Uso de etiquetas, etiquetas, definicion de fuentes,  iconos e imagenes Revisión del archivo FIGMA
+Este proyecto fue desarrollado en colaboración. Inicialmente, realizamos una reunión para establecer la estructura general. Luego, trabajamos de manera individual en las tareas asignadas. Finalmente, al final de la semana, llevamos a cabo una nueva reunión para consolidar nuestro trabajo definitivo.
 
-**PATRICIA ARDILA PARRADO**
-CORREO: patricia.ardilap@gmail.com
-- Trabajo en la eStructuración del código en CSS para MOBILE.
-- Uso de pseudoclases para activas funcionalidades dependiendo de la interacción con el usuario
-- Uso de Pseudoelementos para aplicar estilos a unos elementos determinados 
-- Trabajo con las  Media Queries para adaptabilidad 
+## Colaboradores
+- Patricia Ardila Parrado
+  - Correo electrónico: patricia.ardilap@gmail.com
+  - Responsable de la estructura general del archivo HTML, el uso de etiquetas, definición de fuentes, iconos e imágenes, y la revisión del archivo FIGMA.
+  - Trabajo en la estructuración del código CSS para dispositivos móviles.
+  - Utilización de pseudoclases para activar funcionalidades basadas en la interacción del usuario.
+  - Implementación de pseudoelementos para aplicar estilos a elementos específicos.
+  - Uso de Media Queries para garantizar la adaptabilidad.
 
-**CAROLINA**
+- Carolina menyou
+- Correo electrónico pou15500@gmailcom
+  - (Inserta el correo electrónico de Carolina aquí)
+  -  Responsable de la estructura general del archivo HTML, el uso de etiquetas, definición de fuentes, iconos e imágenes, y la revisión del archivo FIGMA.
+  - Trabajo en el diseño para pantallas de escritorio.
+  - Utilización de pseudoclases para activar funcionalidades basadas en la interacción del usuario.
+  - Implementación de pseudoelementos para aplicar estilos a elementos específicos.
+  - Uso de Media Queries para asegurar la adaptabilidad en diferentes tamaños de pantalla.
 
+Este archivo README proporciona una visión general del proyecto, sus colaboradores y las responsabilidades de cada uno. Además, destaca las tecnologías y técnicas utilizadas en el desarrollo, como CSS, pseudoclases, pseudoelementos y Media Queries.
 
-- Trabajo en el diseño para escritorio.
-Uso de pseudoclases para activas funcionalidades dependiendo de la interacción con el usuario
-- Uso de Pseudoelementos para aplicar estilos a unos elementos determinados
-- Trabajo con las  Media Queries para adaptabilidad 
+¡Gracias por revisar nuestro proyecto!
+
 
